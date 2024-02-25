@@ -11,7 +11,7 @@ const Add = () => {
       <div style={styles.errorText}>OOps! You need to Login First</div>
     </div>
     
-    </>) // Optional: Render nothing or a loading indicator
+    </>) // Optional: Render nothing or a loading
   }
 
 
